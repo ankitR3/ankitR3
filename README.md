@@ -24,5 +24,3 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,mongodb,express,docker,git,github,linux,vscode" />
 </p>
-
----
