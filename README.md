@@ -2,25 +2,33 @@
 
 # Hi 👋 I'm Ankit Raj
 
-### 🚀 Backend & Full Stack Developer
+### Backend & Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;TypeScript+Developer;MongoDB+Enthusiast;Building+DBHaven" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+DBHaven;TypeScript+Developer;Backend+Developer" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🚀 Tech Stack
 
-- 🔭 Working on **DBHaven**
-- 🌱 Learning **Docker & System Design**
-- 💻 Tech Stack: Node.js, TypeScript, MongoDB, React
-- ⚡ Interested in Backend Development & AI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,mongodb,express,docker,git,linux,vscode" />
+</p>
 
 ---
 
-## 🛠 Languages & Tools
+## 📌 Current Project
+
+- DBHaven — MongoDB Backup Utility
+- Node.js + TypeScript Backend Systems
+- Learning Docker & System Design
+
+---
+
+## 🌐 Connect
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,mongodb,express,docker,git,github,linux,vscode" />
+<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
